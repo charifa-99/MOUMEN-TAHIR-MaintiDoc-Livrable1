@@ -1,0 +1,14 @@
+# DOC_ASC_16 — Guide Depannage Boutonnerie CanBUS
+**Équipement :** ASC-BAT-A-01 (Ascenseur MRL Bâtiment A)
+**Type :** Guide_Diagnostic | **Statut :** Valide
+
+## 1. Description & Spécifications
+Ce document contient les instructions techniques détaillées pour Guide Depannage Boutonnerie CanBUS. Conforme aux normes EN 81-20 et EN 81-50.
+
+## 2. Consignes de Sécurité LOTO
+Avant toute intervention, couper le disjoncteur principal 400V et poser un cadenas de consignation.
+
+## 3. Procédure Détaillée
+- Étape 1 : Inspection visuelle des organes.
+- Étape 2 : Contrôle des tolérances mécaniques et électriques.
+- Étape 3 : Validation du fonctionnement avant remise en service.
